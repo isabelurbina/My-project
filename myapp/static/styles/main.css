@@ -27,7 +27,7 @@ body{
 .container {
 	max-width: 1200px;
 	margin: auto;
-	padding: 20px 0;
+	padding: 20px 10;
 	
 }
 
@@ -36,4 +36,11 @@ body{
 	color: black;
 	padding: 10px;
 	margin-bottom: 2px;
+}
+
+.input {
+	background: white;
+	padding: 10px;
+	text-align: center;
+	display: block;
 }
